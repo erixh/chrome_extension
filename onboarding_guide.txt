@@ -1,0 +1,230 @@
+# Slack Workspace Guide
+
+## Getting Started
+
+### Account Setup
+- Sign in at your-workspace.slack.com
+- Download Slack for:
+  * Windows/Mac desktop app
+  * iOS/Android mobile app
+  * Web browser
+- Profile setup:
+  * Add a profile photo
+  * Set your display name
+  * Add your job title
+  * Include your timezone
+  * Add pronouns (optional)
+
+### Workspace Navigation
+- Sidebar organization:
+  * Channels (public and private)
+  * Direct messages
+  * Apps and integrations
+  * Saved items
+  * Threads
+- Quick navigation:
+  * Press Cmd/Ctrl + K to jump to any channel
+  * Use Cmd/Ctrl + T to switch between workspaces
+  * Press Cmd/Ctrl + Shift + M to view unread messages
+
+### Notifications
+- Customize notification preferences:
+  * All messages
+  * Direct messages and mentions
+  * Nothing
+- Do Not Disturb:
+  * Set custom schedule
+  * Pause notifications
+  * Set status
+- Mobile notifications:
+  * Push notifications
+  * Email digests
+  * Desktop alerts
+
+## Communication
+
+### Channels
+- Public channels:
+  * #general (workspace-wide announcements)
+  * #random (casual conversation)
+  * #team-[name] (team-specific)
+  * #project-[name] (project-specific)
+- Private channels:
+  * Invite-only
+  * Not searchable by non-members
+  * Perfect for sensitive discussions
+- Channel guidelines:
+  * Use clear, descriptive names
+  * Add a channel purpose
+  * Pin important messages
+  * Use threads for discussions
+
+### Direct Messages
+- Start a DM:
+  * Click the + next to Direct Messages
+  * Search for team members
+  * Create group DMs (up to 9 people)
+- Best practices:
+  * Use for private conversations
+  * Create group DMs for small teams
+  * Share files and links
+  * Use threads for organized discussions
+
+### Calls and Huddles
+- Start a call:
+  * Click the phone icon in any DM
+  * Use the call button in channels
+  * Share your screen
+- Huddles:
+  * Quick audio conversations
+  * Join from any device
+  * Share screen and draw
+  * Record for later reference
+
+## File Sharing and Apps
+
+### File Management
+- Share files:
+  * Drag and drop into any channel
+  * Use the + button
+  * Paste from clipboard
+- Supported formats:
+  * Documents (PDF, DOC, DOCX)
+  * Images (JPG, PNG, GIF)
+  * Videos (MP4, MOV)
+  * Code snippets
+- File organization:
+  * Search by name or content
+  * Filter by type
+  * Sort by date or name
+  * Star important files
+
+### Apps and Integrations
+- Popular integrations:
+  * Google Drive
+  * Zoom
+  * Jira
+  * GitHub
+  * Asana
+- Add apps:
+  * Click Apps in the sidebar
+  * Browse the App Directory
+  * Request admin approval
+  * Configure settings
+- Custom apps:
+  * Create custom workflows
+  * Build internal tools
+  * Automate routine tasks
+
+## Productivity Features
+
+### Search and Filters
+- Search messages:
+  * Use the search bar (Cmd/Ctrl + F)
+  * Filter by:
+    - Date
+    - Person
+    - Channel
+    - File type
+- Advanced search:
+  * Use search operators
+  * Save searches
+  * Export results
+
+### Message Formatting
+- Text formatting:
+  * *bold*
+  * _italic_
+  * `code`
+  * >quote
+  * • lists
+- Emoji and reactions:
+  * Add reactions to messages
+  * Use custom emoji
+  * Create emoji aliases
+- Code blocks:
+  * Share code snippets
+  * Choose language
+  * Copy with formatting
+
+### Workflow Automation
+- Create workflows:
+  * Use Workflow Builder
+  * Set up triggers
+  * Define actions
+  * Test and deploy
+- Common automations:
+  * Welcome messages
+  * Stand-up reminders
+  * Task assignments
+  * Status updates
+
+## Security and Privacy
+
+### Account Security
+- Two-factor authentication:
+  * Enable in Preferences
+  * Use authenticator app
+  * Save backup codes
+- Session management:
+  * View active sessions
+  * Sign out remotely
+  * Set session timeouts
+
+### Data Protection
+- Message retention:
+  * Workspace settings
+  * Channel-specific rules
+  * Export data
+- Privacy settings:
+  * Control who can DM you
+  * Manage app permissions
+  * Set status visibility
+
+### Compliance
+- Data handling:
+  * Export compliance data
+  * Set retention policies
+  * Monitor usage
+- Security features:
+  * Enterprise Key Management
+  * Data Loss Prevention
+  * Audit logs
+
+## Best Practices
+
+### Communication
+- Channel etiquette:
+  * Read channel guidelines
+  * Use appropriate channels
+  * Keep discussions on topic
+  * Use threads for replies
+- Status updates:
+  * Set your status
+  * Use custom status
+  * Schedule status changes
+  * Set availability
+
+### Organization
+- Channel management:
+  * Join relevant channels
+  * Leave unused channels
+  * Mute noisy channels
+  * Star important ones
+- File organization:
+  * Use descriptive names
+  * Add context to shares
+  * Pin important files
+  * Use shared channels
+
+### Productivity
+- Keyboard shortcuts:
+  * Learn common shortcuts
+  * Customize preferences
+  * Use quick switcher
+  * Navigate efficiently
+- Time management:
+  * Set notification schedule
+  * Use Do Not Disturb
+  * Batch message reading
+  * Use saved items 

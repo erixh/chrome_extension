@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="64" cy="64" r="60" fill="#2196F3"/>
+  
+  <!-- AI Brain Symbol -->
+  <path d="M64 24C42.4 24 25 41.4 25 63C25 84.6 42.4 102 64 102C85.6 102 103 84.6 103 63C103 41.4 85.6 24 64 24ZM64 94C46.3 94 32 79.7 32 62C32 44.3 46.3 30 64 30C81.7 30 96 44.3 96 62C96 79.7 81.7 94 64 94Z" fill="white"/>
+  
+  <!-- Circuit Lines -->
+  <path d="M64 40V52M64 76V88M40 64H52M76 64H88" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Connection Dots -->
+  <circle cx="64" cy="52" r="4" fill="white"/>
+  <circle cx="64" cy="76" r="4" fill="white"/>
+  <circle cx="52" cy="64" r="4" fill="white"/>
+  <circle cx="76" cy="64" r="4" fill="white"/>
+</svg> 
